@@ -1,0 +1,30 @@
+.con{
+  padding: 10px;
+  margin: 110px;
+}
+
+body{
+  color: rgb(51, 49, 53);
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  text-align: center;
+  font-size: 20px;
+}
+
+.heading {
+  padding: 7px;
+  text-align: center;
+  margin-top: auto;
+  background-color:rgb(161, 255, 255);
+}
+
+.dev {
+  font-family: 'Courier New', monospace;
+  padding: 20px; 
+  color:wheat;
+  background-color:rgb(51, 49, 53);
+}
+
+ul{
+  list-style-type:none;
+}
